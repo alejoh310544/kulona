@@ -1,27 +1,78 @@
-# Usage
-install requirements in a new virtual environment using pip install -r requirements.txt.
 
-# FollowerBot
-Follower bot for Instagram:
+# biyivi_ataque_DDos
+DDoS script hecho con python
 
-After you run the program, enter your instagram username and get free Instagram followers. If you run it during 12 hours, you'll get 400 followers! No need to enter your password to the system. PS: You have to public profile to get free followers. 
+![ddos](https://user-images.githubusercontent.com/75817113/124979259-571d9b00-e022-11eb-9aa8-3aa7e56ad610.jpeg)
 
-# LikeBot
-Liker bot for Instagram:
+# Disclaimer: 
+Este script es solo para fines educativos. No me hago responsable de ningun problema o daño causado por este script.
 
-After you run the program, enter your instagram post URL and get free Instagram likes. If you run it during 1 day, you'll get 1570 likes! No need to enter your password to the system. PS: You have to public profile to get free likes.
+# Instalación
+## Termux:
+$ pkg install git -y 
 
-# Get Credit
+$ git clone https://github.com/biyivi/biyivi_ataque_DDos
 
-I wrote a bot program for websites that the more credits you earn, the more followers and likes you can gain. The bot helps you earn credits by going to the relevant website and watching videos in the background. In order to convert these credits into followers or likes, you need to go to the website manually from your browser and make the definitions.
+$ cd biyivi_ataque_DDos
 
-# Remarks
+$ bash install.sh
 
-When you get expiration error on get_instagram_followers.py or get_instagram_likes.py programs, please change your Instagram username and start the bot again.
+$ python biyivi_ddos.py
+## Linux:
+$ git clone https://github.com/biyivi/biyivi_ataque_DDos
 
-Although you change your username and still get expiration error, please try VPN and start the bot again. For example: Hotspot Shield Free VPN program.
+$ cd biyivi_ataque_DDos
 
-# Donations
-If you feel like showing your love and/or appreciation for this project, then how about shouting me a coffee or beer :)
+$ python biyivi_ddos.py 
 
-<a href="https://www.buymeacoffee.com/asimzorlu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+# Video en youtube:
+
+[![Alt text](https://img.youtube.com/vi/aW6myrIEUQU/0.jpg)](https://www.youtube.com/watch?v=aW6myrIEUQU)
+# Redes sociales:
+## Youtube:
+https://www.youtube.com/channel/UCRitJ4OwEQmpk_aEPK9INkw
+## Instagram:
+https://www.instagram.com/b.i.y.i.v.i/
+## TikTok:
+https://www.tiktok.com/@biyivi
+
+                                                                                
+                                                                                
+                           ,,.*((####(###(//***, ***                            
+                      /./#################(/********** .(                       
+                   .(#####################(/************** *.                   
+                ,%########################(/***************** ,                 
+              .##########################(//********************,               
+            ,(#############################/*********************.,             
+           *##############################//*********************** .           
+          /###############################(/************************ ,          
+         *###############################(/**************************           
+        .###############################(//******  . ..  . ...  ******.         
+       .################################(((/***    ***********    .*** *        
+       /(################################(//****************************        
+       ,##################################(/***********          *******        
+       ,#########(#########(/##############//*****   *,  .******** *****        
+       ,########(           .##((#########(/**. ,*****.  .*************/        
+       ,#################/       .########(/ *********   *************/,        
+       /(####################/     .#####(/*******/*,   ..  ,***/*.***,*        
+       ((###########(/***/((#############(/***, ,.****,,***,,,.. .****.(       
+       ./##########/.         ,##########(/**.             ,,.     ,**..        
+        ,################################//****, ..,,*,   , /*********        
+         ################################(/************   ************          
+        ((###############################(//***********   ************(     
+         ,###############################(/***********,   ***********.          
+         *(#############################(/******* *************** .*/,          
+          .#############################(/******** .    ..,,.    .**.           
+           .(##################. ,#######(/**   * .,,,,*,,,,,,, */*.            
+            ,/##################### ,(###(. ,,,,,,,,,,,,,,, ,, ***,             
+             (//#########################(*,,,,,,,,,,,,,,. ,.,* ,/              
+              ,*,#######################(/*,,,,,,,,..   ,,,.**. /               
+                .(,####################/.        ..,,, .. ** *.     
+                 /(*/###################(**,,...   .,.**.* ,./              
+                   .#,(##################(*,,,,,  **** **./                     
+                     *(,(###############/**********, ** * /             
+                      //#,##############(/******* *** *,(                       
+                        #,#*(###########//********,,*.(                         
+                           .(#/#########//****** **.                            
+                              .(########//*****,.*                              
+                                 ,.*(##(//* ./
